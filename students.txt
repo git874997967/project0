@@ -1,4 +1,5 @@
 Add your full name and GitHub username below:
+
 Anish Asrani (anish-94)
 Nicholas Nelson (nelsonni)
 Travis Whitehead (TravisWhitehead)
@@ -63,6 +64,7 @@ Zhiyong Jin (197998453)
 Jonathan Hadi(hadij)
 Christopher Carlsen (CelticChristoph)
 Ethan Takla (taklae)
+Kenneth Price (pricek)
 Vinayaka Thompson(VinPT)
 Juan Mugica(poppers2233)
 Priyank Bathula (priyankb)
